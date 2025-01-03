@@ -1,0 +1,6 @@
+# Set the maximum line length
+line-length = 120
+
+[format]
+# Set the preferred quote style
+quote-style = "single"
