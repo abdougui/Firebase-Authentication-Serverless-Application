@@ -16,7 +16,7 @@ It’s a fun and simple app to showcase serverless concepts and Firebase integra
 - **Sign Up**: Register a new user with email and password.
 - **Sign In**: Sign in with Firebase ID Token.
 - **Firebase Authentication**: Integrated Firebase Authentication service to securely manage users.
-- **Serverless Deployment**: Deployed on **Google Cloud Run** using **Docker**.
+- **Serverless Deployment**: Deployed on **Google Cloud Run**.
 
 ## Prerequisites
 
@@ -25,8 +25,6 @@ Before running the application, make sure you have the following:
 - **Google Cloud Account**: To use Google Cloud Run and Firebase services.
 - **Firebase Project**: Set up Firebase and enable Firebase Authentication in your project.
 - **Service Account Key**: Download the Firebase Admin SDK service account key (JSON format).
-- **Docker**: To containerize and deploy the application to Cloud Run.
-
 ## Setup
 
 ### 1. Clone the Repository
