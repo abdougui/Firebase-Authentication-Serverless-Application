@@ -70,6 +70,7 @@ gcloud functions deploy user_handler \
 --gen2 \
 --region=europe-west1 \
 --runtime=python312 \
+--source=. \
 --entry-point=YOUR_CODE_ENTRYPOINT \
 --trigger-http
 ```
