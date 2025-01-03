@@ -68,7 +68,7 @@ Deploy the application to **Google Cloud Run**:
 ```bash
 gcloud functions deploy user_handler \
 --gen2 \
---region=europe-west1 \
+--region=YOUR_REGION \
 --runtime=python312 \
 --source=. \
 --entry-point=YOUR_CODE_ENTRYPOINT \
